@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+}
+
+.herosection {
+    background: url(./image/pexels-abdghat-2608353.jpg), #000 ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
