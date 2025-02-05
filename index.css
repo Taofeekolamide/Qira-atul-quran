@@ -8,3 +8,19 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.p-5 {
+    padding: 4rem !important;
+}
+
+@media (max-width: 576px) {
+    .p-5 {
+        padding: 1rem !important;
+    }
+}
+/*xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1400px*/
