@@ -22,23 +22,12 @@
     width: 10%;
 }
 .aboutherosection{
-    background: url(./image/pexels-manpritkalsi-1537086.jpg), #000 ;
+    background: url(./image/pexels-manpritkalsi-1537086.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
-.contactherosection{
-    background: url(./image/pexels-manpritkalsi-1537086.jpg), #000 ;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-.servicesherosection{
-    background: url(./image/pexels-manpritkalsi-1537086.jpg), #000 ;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-}
+
 
 @media (max-width: 576px) {
     .p-5 {
